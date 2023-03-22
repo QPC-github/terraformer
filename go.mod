@@ -222,7 +222,7 @@ require (
 	github.com/blang/semver v3.5.1+incompatible // indirect
 	github.com/bmatcuk/doublestar v1.1.5 // indirect
 	github.com/cenkalti/backoff/v4 v4.1.3 // indirect
-	github.com/crewjam/saml v0.4.5 // indirect
+	github.com/crewjam/saml v0.4.13 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dghubble/sling v1.1.0 // indirect
 	github.com/dimchansky/utfbom v1.1.1 // indirect
@@ -265,12 +265,12 @@ require (
 	github.com/huandu/xstrings v1.3.2 // indirect
 	github.com/imdario/mergo v0.3.13 // indirect
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
-	github.com/jonboulle/clockwork v0.2.1 // indirect
+	github.com/jonboulle/clockwork v0.2.2 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/kelseyhightower/envconfig v1.4.0 // indirect
 	github.com/klauspost/compress v1.13.6 // indirect
 	github.com/leodido/go-urn v1.2.1 // indirect
-	github.com/mattermost/xml-roundtrip-validator v0.0.0-20201213122252-bcd7e1b9601e // indirect
+	github.com/mattermost/xml-roundtrip-validator v0.1.0 // indirect
 	github.com/mattn/go-colorable v0.1.12 // indirect
 	github.com/mattn/go-ieproxy v0.0.0-20190702010315-6dee0af9227d // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
@@ -294,12 +294,12 @@ require (
 	github.com/peterhellberg/link v1.1.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/posener/complete v1.2.1 // indirect
-	github.com/russellhaering/goxmldsig v1.1.0 // indirect
+	github.com/russellhaering/goxmldsig v1.2.0 // indirect
 	github.com/sergi/go-diff v1.2.0 // indirect
 	github.com/sirupsen/logrus v1.8.1 // indirect
 	github.com/sourcegraph/jsonrpc2 v0.0.0-20210201082850-366fbb520750 // indirect
 	github.com/spf13/afero v1.2.2 // indirect
-	github.com/stretchr/testify v1.8.0 // indirect
+	github.com/stretchr/testify v1.8.1 // indirect
 	github.com/tomnomnom/linkheader v0.0.0-20180905144013-02ca5825eb80 // indirect
 	github.com/ulikunitz/xz v0.5.8 // indirect
 	github.com/vmihailenco/msgpack/v4 v4.3.12 // indirect
@@ -323,7 +323,6 @@ require (
 	google.golang.org/grpc v1.48.0 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
 	gopkg.in/auth0.v5 v5.21.1
-	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 	gopkg.in/go-playground/validator.v9 v9.31.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
@@ -362,7 +361,7 @@ require (
 	github.com/go-openapi/jsonpointer v0.19.5 // indirect
 	github.com/go-openapi/jsonreference v0.19.5 // indirect
 	github.com/go-openapi/swag v0.19.14 // indirect
-	github.com/golang-jwt/jwt/v4 v4.3.0 // indirect
+	github.com/golang-jwt/jwt/v4 v4.4.3 // indirect
 	github.com/google/gnostic v0.5.7-v3refs // indirect
 	github.com/hashicorp/terraform-plugin-log v0.7.0 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
